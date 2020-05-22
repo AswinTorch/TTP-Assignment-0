@@ -1,5 +1,9 @@
 function productOfAnyAmountOfNumbers(...args) {
-  // Insert code here;
+  // Returns the product of the input numbers
+
+  return args.reduce((prev, curr) => {
+    return prev * curr;
+  })
 }
 
 // Do not edit this line;
