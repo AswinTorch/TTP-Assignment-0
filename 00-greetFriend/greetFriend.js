@@ -1,5 +1,5 @@
 function greetFriend(name) {
-  // Insert code here;
+  // Returns a greeting with the input string
   return "Hello, " + name + "!";
 }
 
