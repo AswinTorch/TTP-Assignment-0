@@ -1,5 +1,5 @@
 function setUnionOfAnyAmountOfSets(...args) {
-  // Returns a set with the union of all sets in the input args
+  // Returns a set with the union of all sets in the input arguments
 
   let set = new Set();
   let array = []
